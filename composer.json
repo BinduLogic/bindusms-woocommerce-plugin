@@ -1,0 +1,22 @@
+{
+    "name": "bindusms/bindusms",
+    "description": "BinduSms lets you notify your customers about their WooCommerce order updates via SMS",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "BinduSms",
+            "email": "contact@bindulogic.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BinduSms\\BinduSms\\": "includes/"
+        },
+        "files": ["includes/functions.php"]
+    }
+}
