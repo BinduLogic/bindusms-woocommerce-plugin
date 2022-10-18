@@ -1,10 +1,10 @@
 === BinduSms ===
-Contributors: bindusms
-Tags: woocommerce, sms, order notify, update
+Contributors: BinduSMS
+Tags: woocommerce, sms, order notify, update, bangladesh
 Requires at least: 3.5
 Tested up to: 5.9
 Requires PHP: 7.1
-Stable tag: 1.1.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,14 @@ Notify your customers about their WooCommerce order updates via SMS.
 
 == Description ==
 
-BinduSms lets you notify your customers about their WooCommerce order updates via SMS.
+BinduSMS notifies your Bangladeshi customers about their WooCommerce order updates via SMS.
 
 = Main features =
-* Automatically send SMS upon order status change
-* Custom message for every order status
-* Custom message for custom order status
+* Send Notification SMS when an order is placed.
+* Send notification SMS when the status of an order is changed.
+* SMS templating for custom SMS for each order Status.
+* Send SMS from Custom Sender ID (Additional Sign up required)
+
 
 == Installation ==
 
@@ -29,7 +31,7 @@ BinduSms lets you notify your customers about their WooCommerce order updates vi
 = Automatic installation =
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install of BinduSms, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
-In the search field type "BinduSms" and click Search Plugins. You can install it by simply clicking Install Now. After clicking that link you will be asked if you're sure you want to install the plugin. Click yes and WordPress will automatically complete the installation. After installation has finished, click the 'activate plugin' link.
+In the search field type "BinduSMS" and click Search Plugins. You can install it by simply clicking Install Now. After clicking that link you will be asked if you're sure you want to install the plugin. Click yes and WordPress will automatically complete the installation. After installation has finished, click the 'activate plugin' link.
 
 = Manual installation via the WordPress interface =
 1. Download the plugin zip file to your computer
@@ -44,13 +46,6 @@ In the search field type "BinduSms" and click Search Plugins. You can install it
 3. Activate the plugin from the Plugins menu within the WordPress admin.
 
 == Changelog ==
-
-= 1.1.2 =
-* Fix: API issue
-
-= 1.1.0 =
-* Add - Option to get new order notification via SMS
-* Add - Option to receive SMS debug report via email
 
 = 1.0.0 =
 * Initial release

@@ -6,7 +6,7 @@
  * Plugin URI: https://wordpress.org/plugins/bindusms
  * Author: BinduSms
  * Author URI: https://www.sms.bindulogic.com
- * Version: 1.1.2
+ * Version: 1.0.0
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: bindusms
