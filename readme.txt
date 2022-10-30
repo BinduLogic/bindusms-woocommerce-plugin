@@ -1,5 +1,5 @@
 === BinduSms ===
-Contributors: BinduSMS
+Contributors: wasee941
 Tags: woocommerce, sms, order notify, update, bangladesh
 Requires at least: 3.5
 Tested up to: 6.0.3
@@ -44,6 +44,23 @@ In the search field type "BinduSMS" and click Search Plugins. You can install it
 1. Download the plugin file to your computer and unzip it
 2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory.
 3. Activate the plugin from the Plugins menu within the WordPress admin.
+
+
+== Frequently Asked Questions ==
+1. How do I get the API Key?
+Sign up for an account at https://sms.bindulogic.com, verify you account and go to Dashboard > Developer Mode. You can copy your API key from there.
+
+2. How do I send Sms with custom senderId (Masking Sms)?
+Email us or call us. We will set it up for you.
+
+3. How much does it cost to send an Sms?
+You can check you rate at your BinduSms Dashboard. Rates are negotiable for higher volume. We encourage you to contact us.
+
+4. How do I recharge my account?
+You can recharge your account from the BinduSms Dashboard > Recharge account. We have multiple payment methods.
+
+== Screenshots ==
+1. BinduSms Settings in WooCommerce
 
 == Changelog ==
 
